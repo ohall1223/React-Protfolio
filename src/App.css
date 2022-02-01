@@ -1,3 +1,75 @@
-.App {
+body {
+  background-color: #c6d8af;
+  color: #685369;
+}
+
+header {
+  font-size: 30px;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  flex-direction: row;
+  justify-content: right;
+}
+
+li {
+  padding: 20px;
+  margin: 20px;
+  text-decoration: underline;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#about_me {
+  flex: 1 0 0;
+  padding: 10px;
   text-align: center;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#work {
+  flex: 1 0 0;
+  padding: 10px;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.workCards {
+  /* display: block; */
+  width: 50%;
+  min-width: 100px;
+  flex-wrap: wrap;
+  border: #685369 solid 5px;
+  justify-content: center;
+}
+
+#cardLabel {
+  flex: 1 0 0;
+  padding: 10px;
+  text-align: center;
+}
+
+#contact_me {
+  flex: 1 0 0;
+  padding: 10px;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#resume {
+  flex: 1 0 0;
+  padding: 10px;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
 }
