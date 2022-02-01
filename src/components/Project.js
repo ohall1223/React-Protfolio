@@ -8,14 +8,14 @@ function ProjectCards(props) {
                 <img alt={props.name} src={props.image}/>
             </div>
             <div className="content">
-                <p className="card-title">{props.name}</p>
-                <p class="proj-icons-container">
+                <h3 className="card-title">{props.name}</h3>
+                <h3 class="proj-icons-container">
                 <a href={props.github}><img class="ptoject-icon" src="https://img.icons8.com/fluent/48/000000/github.png" alt="github repo"></img></a>
                 <a href={props.deploy}><img class="project=icon" src="https://img.icons8.com/fluent/48/000000/domain.png" alt="live application"></img></a>
-                </p>
-                <p class="topics">
+                </h3>
+                <h5 class="topics">
                     ({props.topics})
-                </p>
+                </h5>
             </div>
         </div>
     );

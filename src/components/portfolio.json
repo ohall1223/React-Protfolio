@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Code-Quiz",
-    "image": "https://github.com/ohall1223/project-2/blob/main/assets/LandingPage.png?raw=true",
+    "image": "https://github.com/ohall1223/Code-Quiz/blob/main/assets/Screen%20Shot%202022-02-01%20at%204.43.49%20PM.png?raw=true",
     "github": "https://github.com/ohall1223/Code-Quiz",
     "deployed": "https://ohall1223.github.io/Code-Quiz/",
     "topics": "CSS, HTML"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "name": "Code Refactor",
-    "image": "https://github.com/ohall1223/code-refactor/blob/main/assets/images/screenshot1.png",
+    "image": "https://github.com/ohall1223/code-refactor/blob/main/assets/images/screenshot1.png?raw=true",
     "github": "https://github.com/ohall1223/code-refactor",
     "deployed": "https://ohall1223.github.io/code-refactor/",
     "topics": "HTML"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "name": "E-Commerce-Back-End",
-    "image": "../Assets/ScreenShot4.png",
+    "image": "https://github.com/ohall1223/E-Commerce-Back-End/blob/main/Screen%20Shot%202022-02-01%20at%204.50.49%20PM.png?raw=true",
     "github": "https://github.com/ohall1223/E-Commerce-Back-End",
     "deployed": "https://watch.screencastify.com/v/hCaYMdC7kqitFk9Yc8qn",
     "topics": "Mysql, Express"
@@ -42,9 +42,9 @@
   {
     "id": 6,
     "name": "Good-ReadMe-Generator",
-    "image": "",
+    "image": "https://github.com/ohall1223/Good-README-Generator-/blob/main/Screen%20Shot%202022-02-01%20at%204.54.15%20PM.png?raw=true",
     "github": "https://github.com/ohall1223/Good-README-Generator-",
-    "deployed": "",
+    "deployed": " https://watch.screencastify.com/v/Ga5qfbN1kWzymdEjLN0v",
     "topics": "CSS, HTML"
   }
 ]

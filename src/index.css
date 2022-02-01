@@ -22,6 +22,7 @@ body {
   position: relative;
   width: 400px;
   box-shadow: 0 2px 2px var(--cultured), 0 6px 12px var(--cultured);
+  padding-bottom: 50px;
 }
 
 .card .img-container {
@@ -65,11 +66,12 @@ body {
   background-color: var(--white);
   padding: 5px;
 }
-main {
+/* main {
   margin: 0 auto;
   max-width: 90%;
   padding: 50px 30px;
-}
+} */
+
 p {
   margin-top: 0;
   padding-bottom: 50px;
