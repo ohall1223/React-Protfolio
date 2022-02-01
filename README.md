@@ -12,15 +12,15 @@
 
 - This page is for displaying the work & resume of Olivia Hall.
 
-```md[Profile pic](assets/Screenshot1)
+```md[Profile pic]()
 
 ```
 
-```md[Projects](assets/Screenshot2)
+```md[Projects]()
 
 ```
 
-```md[Contact & Resume](assets/Screenshot3)
+```md[Contact & Resume]()
 
 ```
 

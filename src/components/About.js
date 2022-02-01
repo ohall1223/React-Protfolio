@@ -8,7 +8,8 @@ function About() {
             <div>
                 <img class="mb-5" id="avatar" src="https://avatars.githubusercontent.com/u/81581516?v=4" alt="Olivia Hall"></img>
                 <p>
-                    I am a student at the University of Denver coding bootcamp. My studies include JavaScript, CSS, HTML, handlebars, express, MySQL, and node JS.
+                    Hello! I am a student at the University of Denver coding bootcamp. My studies include JavaScript, CSS, HTML, handlebars, bootstrap, express, MySQL, node JS, MongoDB, and React.
+                    I am a passionate life-long learner. I love the outdoors, cooking and spending time with my friends & family. 
                 </p>
             </div>
         </section>
