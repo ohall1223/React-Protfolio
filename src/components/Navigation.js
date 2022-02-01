@@ -1,6 +1,6 @@
 import React from 'react';
-import { Navbar } from 'react-bootstrap';
-import { NavLink } from "react-router-dom";
+import Navbar from 'react-bootstrap/Navbar';
+import NavLink from 'react-router-dom/NavLink';
 
 function Navigation(props) {
     return (
