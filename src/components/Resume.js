@@ -9,17 +9,17 @@ function Resume() {
                 <div class="mt-5">
                     <h2 className="top-title">Olivia Hall</h2>
                        <a
-            href=""
+            href="https://github.com/ohall1223/React-Protfolio/blob/main/Assets/Olivia%20Hall%20Resume%2011.20.20.pdf"
             class="link"
           >
             Download Resume
           </a>
-                    <ul>
-                        <h4>Qualifications:</h4>
-                        <li>
+    
+                        <h3>Qualifications:</h3>
+                        <h4>
                             Like hands-on work within a team environment. Good at resolving problems and thinking logically, analytically, and creatively. Proficient with computing programs such as SolidWorks, MATLAB, AutoCAD, Mathcad, RAM Steel, and ProSteel , EPA Net, Microsoft Word and Excel, EnerCalc, RetainPro. Comfortable with writing, concisely and professionally.
-                        </li>
-                        <h4>Education:</h4>
+                        </h4>
+                        {/* <h4>Education:</h4>
                         <li>
                             2008-2013 University of Colorado at Denver School of Engineering and Applied Sciences Major: Engineering-Civil Engineering GPA 3.30
 
@@ -57,8 +57,7 @@ function Resume() {
                         <h4>References:</h4>
                         <li>
                             Available upon request
-                        </li>
-                    </ul>
+                        </li> */}
                     <p class="mt-5">
                         <a href="https://www.linkedin.com/in/olivia-hall-ei-a524b364/">
                             <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedIn">
