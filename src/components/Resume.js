@@ -8,6 +8,12 @@ function Resume() {
             <div>
                 <div class="mt-5">
                     <h2 className="top-title">Olivia Hall</h2>
+                       <a
+            href=""
+            class="link"
+          >
+            Download Resume
+          </a>
                     <ul>
                         <h4>Qualifications:</h4>
                         <li>
