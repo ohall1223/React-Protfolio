@@ -17,13 +17,15 @@ function Resume() {
     
                         <h3>Qualifications:</h3>
                         <h4>
-                            Like hands-on work within a team environment. Good at resolving problems and thinking logically, analytically, and creatively. Proficient with computing programs such as SolidWorks, MATLAB, AutoCAD, Mathcad, RAM Steel, and ProSteel , EPA Net, Microsoft Word and Excel, EnerCalc, RetainPro. Comfortable with writing, concisely and professionally.
+                            Like hands-on work within a team environment. Good at resolving problems and thinking logically, analytically, and creatively. Proficient with programming languages such as CSS, HTML, JavaScript, JSON, MySQL, MongoDB, Express.js, and React.js. Proficient with computing programs such as SolidWorks, MATLAB, AutoCAD, Mathcad, RAM Steel, and ProSteel , EPA Net, Microsoft Word and Excel, EnerCalc, RetainPro. Comfortable with writing, concisely and professionally.
                         </h4>
                         {/* <h4>Education:</h4>
                         <li>
-                            2008-2013 University of Colorado at Denver School of Engineering and Applied Sciences Major: Engineering-Civil Engineering GPA 3.30
+                        2021-2022 University of Denver Full Stack Coding Bootcamp
 
-                            2016 Red Rocks Community College Civil 3D drafting course
+                        2016 Red Rocks Community College Civil 3D drafting course
+                        
+                        2008-2013 University of Colorado at Denver School of Engineering and Applied Sciences Major: Engineering-Civil Engineering GPA 3.30
                         </li>
                         <h4>Experience:</h4>
                         <li>
