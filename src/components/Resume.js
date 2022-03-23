@@ -9,7 +9,7 @@ function Resume() {
                 <div class="mt-5">
                     <h2 className="top-title">Olivia Hall</h2>
                        <a
-            href="https://github.com/ohall1223/React-Protfolio/blob/main/Assets/Olivia%20Hall%20Resume%2011.20.20.pdf"
+            href="https://github.com/ohall1223/React-Protfolio/blob/main/Assets/Olivia%20Hall%20Resume%2003.11.22.pdf"
             class="link"
           >
             Download Resume
